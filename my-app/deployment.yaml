@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: rifqoi:v0.1.3
+          image: rifqoi/nginx:v0.1.3
           ports:
             - containerPort: 80
