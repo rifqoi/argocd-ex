@@ -1,0 +1,5 @@
+---
+kind: Namespace
+apiVersion: apps/v1
+metadata:
+  name: prod
